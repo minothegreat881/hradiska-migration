@@ -1,0 +1,27 @@
+# Stiahnutý mirror - veľký obsah (95MB+)
+backup/
+*.pyc
+__pycache__/
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+~*
